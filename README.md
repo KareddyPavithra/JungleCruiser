@@ -21,6 +21,11 @@
 
 Take a look at some of the screenshots of the game:
 
+This is the home page of the application:
 ![Home screen](https://github.com/KareddyPavithra/JungleCruiser/blob/main/game/jc%20app%20images/Home%20page.png)
+
+This is the 2nd level in the game:
 ![Game screen](https://github.com/KareddyPavithra/JungleCruiser/blob/main/game/jc%20app%20images/Game%20screen.png)
+
+This is the paused screen:
 ![Game pause screen](https://github.com/KareddyPavithra/JungleCruiser/blob/main/game/jc%20app%20images/Game%20pause%20screen.png)
