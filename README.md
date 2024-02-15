@@ -21,4 +21,6 @@
 
 Take a look at some of the screenshots of the game:
 
-
+![Home screen](https://github.com/KareddyPavithra/JungleCruiser/blob/main/game/jc%20app%20images/Home%20page.png)
+![Game screen](https://github.com/KareddyPavithra/JungleCruiser/blob/main/game/jc%20app%20images/Game%20screen.png)
+![Game pause screen](https://github.com/KareddyPavithra/JungleCruiser/blob/main/game/jc%20app%20images/Game%20pause%20screen.png)
